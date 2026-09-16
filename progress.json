@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:27:39.131Z",
+  "generated_at": "2026-09-17T16:27:41.761Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -65,6 +65,189 @@
       "last_pushed_at": "2026-09-14T20:27:25.348Z",
       "language": "python",
       "lines": 5
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-09-16T13:02:59.019Z",
+      "last_pushed_at": "2026-09-16T13:02:59.019Z"
+    },
+    "math:9": {
+      "kind": "math",
+      "id": "9",
+      "title": "Matrix Basics",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/9",
+      "path": "math/0009-matrix-basics",
+      "first_solved_at": "2026-09-16T13:04:34.109Z",
+      "last_pushed_at": "2026-09-16T13:04:34.109Z"
+    },
+    "math:10": {
+      "kind": "math",
+      "id": "10",
+      "title": "Matrix Multiplication",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/10",
+      "path": "math/0010-matrix-multiplication",
+      "first_solved_at": "2026-09-16T13:05:57.546Z",
+      "last_pushed_at": "2026-09-16T13:05:57.546Z"
+    },
+    "math:8": {
+      "kind": "math",
+      "id": "8",
+      "title": "Vector Norms and Linear Independence",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/8",
+      "path": "math/0008-vector-norms-and-linear-independence",
+      "first_solved_at": "2026-09-16T13:07:11.414Z",
+      "last_pushed_at": "2026-09-16T13:07:11.414Z"
+    },
+    "problem:331": {
+      "kind": "problem",
+      "id": "331",
+      "title": "Check Linear Independence of Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/331",
+      "path": "problems/0331-check-linear-independence-of-vectors",
+      "first_solved_at": "2026-09-16T13:15:58.661Z",
+      "last_pushed_at": "2026-09-16T13:15:58.661Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-09-16T13:22:30.274Z",
+      "last_pushed_at": "2026-09-16T13:22:30.274Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-09-16T13:25:55.825Z",
+      "last_pushed_at": "2026-09-16T13:25:55.825Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:328": {
+      "kind": "problem",
+      "id": "328",
+      "title": "Vector Norms (L1/L2/L-inf) and the Frobenius Norm",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/328",
+      "path": "problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm",
+      "first_solved_at": "2026-09-16T13:39:51.269Z",
+      "last_pushed_at": "2026-09-16T13:39:51.269Z",
+      "language": "python",
+      "lines": 33
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-09-16T13:48:15.944Z",
+      "last_pushed_at": "2026-09-16T13:48:15.944Z",
+      "language": "python",
+      "lines": 20
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-09-16T13:53:42.441Z",
+      "last_pushed_at": "2026-09-16T13:53:42.441Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-09-16T13:56:42.930Z",
+      "last_pushed_at": "2026-09-16T13:56:42.930Z"
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-09-16T14:28:39.073Z",
+      "last_pushed_at": "2026-09-16T14:28:39.073Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-09-16T14:34:38.185Z",
+      "last_pushed_at": "2026-09-16T14:34:38.185Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-09-16T14:39:41.170Z",
+      "last_pushed_at": "2026-09-16T14:39:41.170Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-09-16T14:47:42.563Z",
+      "last_pushed_at": "2026-09-16T14:47:42.563Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
