@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T15:39:55.012Z",
+  "generated_at": "2026-10-30T15:37:34.525Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -431,6 +431,19 @@
       "path": "math/0033-expectation-and-variance-algebra",
       "first_solved_at": "2026-10-29T15:39:54.248Z",
       "last_pushed_at": "2026-10-29T15:39:54.248Z"
+    },
+    "problem:308": {
+      "kind": "problem",
+      "id": "308",
+      "title": "Gradient Direction and Magnitude",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/308",
+      "path": "problems/0308-gradient-direction-and-magnitude",
+      "first_solved_at": "2026-10-30T15:37:33.735Z",
+      "last_pushed_at": "2026-10-30T15:37:33.735Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
